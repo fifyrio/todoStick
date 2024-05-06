@@ -1,16 +1,6 @@
 # todostick
 
-A new Flutter project.
+Reminders, To-Do List & Tasks
 
-## Getting Started
+https://github.com/fifyrio/todoStick/assets/8080188/aec2c667-ef0f-48aa-a8f6-38647e5648a3
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
